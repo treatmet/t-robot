@@ -1,0 +1,46 @@
+T,ROBOT/HORNZ 3 NOTES
+
++different enemies, bigger enemies that take more hits
++Bigs Bots
+	2 shotgun hits
+	3 DP hits
+	5 mg/pistol hits
+
+
++make combos fun or take them out
++optimize graphics. test lag points. remove shades from bots, reduce framerate
++ablility to shake off enemies after being killed
++sword
++test shotgun first shot (May be fixed)
+
++feet stomping ??
+
+
+The Shotgun's spread is narrower close to the player. Try to keep enemies at a medium distance.
+
+Stay away from the "!" on the sides of the screen. Enemies spawn there.
+
+Maximize the Shotgun's effectiveness by waiting for groups to fire upon.
+
+When surrounded, shoot the same direction you are moving to make a hole through your foes.
+
+Watch out, past 500 kills there are enemies that are faster than you!
+
+All weapons (except the Machinegun) can be fired faster by tapping the arrow keys instead of holding them down.
+
+Pay attention to the colors of enemies. Darker enemies run faster.
+
+Always keep an eye on the ammo of your weapon. Don't run out at the wrong moment!
+
+You can pause at any time with Spacebar
+
+You can switch between weapons with 1,2,3,4. Q and "End" will switch between the pistol and special weapons. 
+
+You can switch weapons while paused.
+
+
+
+
+
+
+
